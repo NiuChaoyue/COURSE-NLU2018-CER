@@ -1,0 +1,44 @@
+2018-06-15 20:39:15,825:INFO: Initializing tf session
+2018-06-15 20:40:44,505:INFO: Epoch 1 out of 15
+2018-06-15 20:41:51,606:INFO: acc 90.12 - f1 65.18
+2018-06-15 20:41:55,173:INFO: - new best score!
+2018-06-15 20:41:55,173:INFO: Epoch 2 out of 15
+2018-06-15 20:42:55,309:INFO: acc 91.94 - f1 73.24
+2018-06-15 20:42:59,249:INFO: - new best score!
+2018-06-15 20:42:59,250:INFO: Epoch 3 out of 15
+2018-06-15 20:43:55,928:INFO: acc 92.83 - f1 76.76
+2018-06-15 20:43:57,565:INFO: - new best score!
+2018-06-15 20:43:57,566:INFO: Epoch 4 out of 15
+2018-06-15 20:45:00,967:INFO: acc 93.42 - f1 78.78
+2018-06-15 20:45:02,744:INFO: - new best score!
+2018-06-15 20:45:02,744:INFO: Epoch 5 out of 15
+2018-06-15 20:46:02,324:INFO: acc 93.70 - f1 79.71
+2018-06-15 20:46:06,013:INFO: - new best score!
+2018-06-15 20:46:06,013:INFO: Epoch 6 out of 15
+2018-06-15 20:47:05,912:INFO: acc 93.92 - f1 80.78
+2018-06-15 20:47:10,112:INFO: - new best score!
+2018-06-15 20:47:10,112:INFO: Epoch 7 out of 15
+2018-06-15 20:48:11,118:INFO: acc 94.32 - f1 82.23
+2018-06-15 20:48:12,403:INFO: - new best score!
+2018-06-15 20:48:12,403:INFO: Epoch 8 out of 15
+2018-06-15 20:49:17,187:INFO: acc 94.21 - f1 81.92
+2018-06-15 20:49:17,187:INFO: Epoch 9 out of 15
+2018-06-15 20:50:16,097:INFO: acc 94.51 - f1 83.08
+2018-06-15 20:50:20,413:INFO: - new best score!
+2018-06-15 20:50:20,413:INFO: Epoch 10 out of 15
+2018-06-15 20:51:19,300:INFO: acc 94.19 - f1 82.35
+2018-06-15 20:51:19,301:INFO: Epoch 11 out of 15
+2018-06-15 20:52:22,929:INFO: acc 94.45 - f1 82.94
+2018-06-15 20:52:22,930:INFO: Epoch 12 out of 15
+2018-06-15 20:53:22,524:INFO: acc 94.55 - f1 83.43
+2018-06-15 20:53:27,096:INFO: - new best score!
+2018-06-15 20:53:27,096:INFO: Epoch 13 out of 15
+2018-06-15 20:54:26,953:INFO: acc 94.54 - f1 83.44
+2018-06-15 20:54:31,826:INFO: - new best score!
+2018-06-15 20:54:31,826:INFO: Epoch 14 out of 15
+2018-06-15 20:55:28,518:INFO: acc 94.57 - f1 83.28
+2018-06-15 20:55:28,518:INFO: Epoch 15 out of 15
+2018-06-15 20:56:34,344:INFO: acc 94.48 - f1 82.94
+2018-06-15 20:59:13,804:INFO: Initializing tf session
+2018-06-15 20:59:22,984:INFO: Reloading the latest trained model...
+2018-06-15 20:59:22,984:INFO: Restoring parameters from results/test/model.weights/

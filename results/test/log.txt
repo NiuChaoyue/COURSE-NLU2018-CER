@@ -1,0 +1,48 @@
+2018-06-15 22:22:09,374:INFO: Initializing tf session
+2018-06-15 22:22:20,921:INFO: Epoch 1 out of 50
+2018-06-15 22:23:23,472:INFO: acc 91.01 - f1 68.74
+2018-06-15 22:23:24,820:INFO: - new best score!
+2018-06-15 22:23:24,820:INFO: Epoch 2 out of 50
+2018-06-15 22:24:41,452:INFO: acc 93.26 - f1 77.60
+2018-06-15 22:24:43,610:INFO: - new best score!
+2018-06-15 22:24:43,610:INFO: Epoch 3 out of 50
+2018-06-15 22:25:40,518:INFO: acc 94.10 - f1 80.50
+2018-06-15 22:25:43,614:INFO: - new best score!
+2018-06-15 22:25:43,614:INFO: Epoch 4 out of 50
+2018-06-15 22:26:43,673:INFO: acc 94.24 - f1 81.70
+2018-06-15 22:26:45,255:INFO: - new best score!
+2018-06-15 22:26:45,255:INFO: Epoch 5 out of 50
+2018-06-15 22:27:56,672:INFO: acc 94.64 - f1 82.54
+2018-06-15 22:28:00,020:INFO: - new best score!
+2018-06-15 22:28:00,020:INFO: Epoch 6 out of 50
+2018-06-15 22:28:56,834:INFO: acc 94.65 - f1 83.14
+2018-06-15 22:28:59,346:INFO: - new best score!
+2018-06-15 22:28:59,346:INFO: Epoch 7 out of 50
+2018-06-15 22:30:08,443:INFO: acc 94.79 - f1 83.35
+2018-06-15 22:30:10,323:INFO: - new best score!
+2018-06-15 22:30:10,323:INFO: Epoch 8 out of 50
+2018-06-15 22:31:47,039:INFO: acc 94.70 - f1 83.10
+2018-06-15 22:31:47,039:INFO: Epoch 9 out of 50
+2018-06-15 22:33:00,728:INFO: acc 94.79 - f1 83.85
+2018-06-15 22:33:01,965:INFO: - new best score!
+2018-06-15 22:33:01,965:INFO: Epoch 10 out of 50
+2018-06-15 22:34:01,718:INFO: acc 94.75 - f1 83.57
+2018-06-15 22:34:01,718:INFO: Epoch 11 out of 50
+2018-06-15 22:35:02,557:INFO: acc 94.82 - f1 83.94
+2018-06-15 22:35:05,159:INFO: - new best score!
+2018-06-15 22:35:05,159:INFO: Epoch 12 out of 50
+2018-06-15 22:36:21,690:INFO: acc 94.82 - f1 84.05
+2018-06-15 22:36:24,391:INFO: - new best score!
+2018-06-15 22:36:24,391:INFO: Epoch 13 out of 50
+2018-06-15 22:37:24,106:INFO: acc 94.88 - f1 84.07
+2018-06-15 22:37:25,962:INFO: - new best score!
+2018-06-15 22:37:25,962:INFO: Epoch 14 out of 50
+2018-06-15 22:38:25,276:INFO: acc 94.72 - f1 83.74
+2018-06-15 22:38:25,276:INFO: Epoch 15 out of 50
+2018-06-15 22:39:42,905:INFO: acc 94.85 - f1 83.97
+2018-06-15 22:39:42,905:INFO: Epoch 16 out of 50
+2018-06-15 22:40:44,518:INFO: acc 94.84 - f1 83.75
+2018-06-15 22:40:44,518:INFO: - early stopping 3 epochs without improvement
+2018-06-15 22:41:04,268:INFO: Initializing tf session
+2018-06-15 22:41:09,999:INFO: Reloading the latest trained model...
+2018-06-15 22:41:09,999:INFO: Restoring parameters from results/test/model.weights/
